@@ -1,2 +1,21 @@
-# vue_cli3.0_base_vant
-vue3.0脚手架+vant_ui
+# base_h5
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
